@@ -4,7 +4,18 @@ public class Main {
     public static void main(String[] args) {
         int myAge = 30;
         int herAge = myAge;
-        // test.
         System.out.println(herAge);
+
+        //mortCalc();
+        otherThing();
     }
+
+    private static void otherThing() {}
+
+
+    private static void mortCalc() {
+            // do work...
+
+    }
+
 }
