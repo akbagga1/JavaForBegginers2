@@ -5,7 +5,7 @@ import java.util.Date;
 
 public class Main {
     public static void main(String[] args) {
-        int result = Math.max(1, 2);
+        int result = Math.min(1, 2);
         System.out.println(result);
     }
 }
