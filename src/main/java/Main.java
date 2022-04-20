@@ -5,7 +5,7 @@ import java.util.Date;
 
 public class Main {
     public static void main(String[] args) {
-        int result = 10 + 3;
+        double result = (double)10 / (double)3;
         System.out.println(result);
     }
 }
