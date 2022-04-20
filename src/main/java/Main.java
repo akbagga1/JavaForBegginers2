@@ -5,7 +5,7 @@ import java.util.Date;
 
 public class Main {
     public static void main(String[] args) {
-        int result = Math.min(1, 2);
+        double result = Math.random() * 100;
         System.out.println(result);
     }
 }
